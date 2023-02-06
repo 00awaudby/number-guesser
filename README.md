@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![06 02 2023_11 41 08_REC](https://user-images.githubusercontent.com/84845712/216962619-629854c8-ad97-47f0-9572-4fe1103e5f61.png)
+
 
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://00awaudby.github.io/number-guesser/)
 
 ## My process
 
